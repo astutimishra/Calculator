@@ -12,12 +12,9 @@ Before you can run the calculator, you'll need to have the following installed o
 * Python (version 3.x recommended)
 * Tkinter library (usually included with Python)
 ## Getting Started
-* Clone or download this repository to your local machine.
-``` git clone https://github.com/yourusername/Calculator.git ```
-* Navigate to the project directory.
-  ``` cd Calculator ```
-* Run the Calculator.py file.
-``` python calculator.py ```
+* Clone or download this repository to your local machine. ``` git clone https://github.com/yourusername/Calculator.git ```
+* Navigate to the project directory. ``` cd Calculator ```
+* Run the Calculator.py file. ``` python calculator.py ```
 * The calculator window will appear, and you can start performing calculations.
 
 
