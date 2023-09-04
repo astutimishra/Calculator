@@ -11,3 +11,7 @@ This is a simple calculator application built using Python and the Tkinter libra
 Before you can run the calculator, you'll need to have the following installed on your system:
 * Python (version 3.x recommended)
 * Tkinter library (usually included with Python)
+# Getting Started
+Clone or download this repository to your local machine.
+``` git clone https://github.com/yourusername/calculator.git ```
+
