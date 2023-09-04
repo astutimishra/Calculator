@@ -3,7 +3,7 @@ This is a simple calculator application built using Python and the Tkinter libra
 ## features
 * Addition
 * Subtraction
-* Multiplication
+*  Multiplication
 * Division
 * Clearing the display
 * Keyboard support (numeric keys and operators)
