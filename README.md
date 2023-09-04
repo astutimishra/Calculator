@@ -1,6 +1,7 @@
 # Calculator
 This is a simple calculator application built using Python and the Tkinter library. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
-<img width="267" alt="image" src="https://github.com/astutimishra/Calculator/assets/85962678/0b9233b7-70c5-4e8d-9ccf-20b3f4fa3405">
+
+* <img width="267" alt="image" src="https://github.com/astutimishra/Calculator/assets/85962678/0b9233b7-70c5-4e8d-9ccf-20b3f4fa3405">
 
 ## Features
 * Addition
